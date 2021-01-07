@@ -1,0 +1,22 @@
+{
+  "name": "icon.place",
+  "version": "1.0.0",
+  "description": "Modern icon font",
+  "main": "iconplace.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danilo-A/icon.place.git"
+  },
+  "keywords": [
+    "icons"
+  ],
+  "author": "Danilo Abreu Ott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danilo-A/icon.place/issues"
+  },
+  "homepage": "https://github.com/Danilo-A/icon.place#readme"
+}
