@@ -4,7 +4,7 @@ A free modern icon font
 
 # Installation
 
-`npm i icon.place --save`
+`npm i icon.place`
 
 # Use CDN
 
