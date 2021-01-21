@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'iconstoday';
-  src:  url('icons/iconstoday.eot?dh0hnh');
-  src:  url('icons/iconstoday.eot?dh0hnh#iefix') format('embedded-opentype'),
-    url('icons/iconstoday.ttf?dh0hnh') format('truetype'),
-    url('icons/iconstoday.woff?dh0hnh') format('woff'),
-    url('icons/iconstoday.svg?dh0hnh#iconstoday') format('svg');
+  font-family: 'iconplace';
+  src:  url('icons/iconplace.eot?dh0hnh');
+  src:  url('icons/iconplace.eot?dh0hnh#iefix') format('embedded-opentype'),
+    url('icons/iconplace.ttf?dh0hnh') format('truetype'),
+    url('icons/iconplace.woff?dh0hnh') format('woff'),
+    url('icons/iconplace.svg?dh0hnh#iconstoday') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 i.ip {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'iconstoday' !important;
+  font-family: 'iconplace' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
